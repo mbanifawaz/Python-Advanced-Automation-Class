@@ -1,0 +1,5 @@
+pygtail
+requests
+beautifulsoup4
+schedule
+flask
