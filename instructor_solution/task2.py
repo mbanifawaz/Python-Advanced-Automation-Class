@@ -195,7 +195,7 @@ class NewsScraperAutomation:
                 next_run = schedule.next_run()
                 time_remaining = next_run - datetime.now()
                 logging.info(f"Time remaining until next scrape: {time_remaining}")
-                time.sleep(10)  # Log every 10 seconds
+                time.sleep(1)  # Log every 1 seconds
 
         # Start the logging function in a separate thread
         threading.Thread(target=log_time_remaining, daemon=True).start()
