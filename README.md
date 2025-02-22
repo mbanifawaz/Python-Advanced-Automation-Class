@@ -71,6 +71,37 @@
 
 ---
 
+## **Setup Guide for Windows & Ubuntu**
+
+### **Installing Python & IDEs**
+
+#### **For Windows:**
+1. **Install Python:**
+   - Download Python from [official website](https://www.python.org/downloads/).
+   - Run the installer and check the box **“Add Python to PATH”** before installing.
+   - Verify installation by running `python --version` in Command Prompt.
+
+2. **Install VS Code:**
+   - Download VS Code from [official website](https://code.visualstudio.com/).
+   - Install Python extension from the Extensions Marketplace.
+
+3. **Install PyCharm:**
+   - Download PyCharm Community Edition from [JetBrains](https://www.jetbrains.com/pycharm/download/).
+   - Follow the installation steps and launch PyCharm.
+
+#### **For Ubuntu:**
+1. **Install VS Code:**
+   - Open a terminal and run:
+     ```sh
+     sudo apt update && sudo apt install code
+     ```
+
+2. **Install PyCharm:**
+   - Download PyCharm from [JetBrains](https://www.jetbrains.com/pycharm/download/).
+   - Run the installer and follow the instructions.
+
+---
+
 ### **Submission Guidelines:**
 - Submit the full Python scripts for both tasks.
 - Provide a short README file explaining how your scripts work.
@@ -78,3 +109,4 @@
 - Ensure that the scripts run on both Windows and Ubuntu.
 
 Good luck! 🚀
+
