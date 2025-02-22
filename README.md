@@ -1,5 +1,11 @@
 **Advanced Python Automation Tasks**
 
+**Instructor's LinkedIn Profile:**
+   - [Munes Bani Fawaz LinkedIn](https://www.linkedin.com/in/munes-bani-fawaz-799151204/)
+
+**Lecture Video:**
+   - [Download the Lecture Video](https://github.com/mbanifawaz/Python-Advanced-Automation-Class/blob/main/Lecture.mp4)
+
 ## **Task 1: Log Monitoring & Email Alert System**
 
 ### **Objective:**
